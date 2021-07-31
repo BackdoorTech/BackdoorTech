@@ -10,7 +10,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14115342/backdoortech?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14115342/backdoortech?tab=profile" height="30" width="40" /></a>
 <a href="https://codesandbox.com/backdoortech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="backdoortech" height="30" width="40" /></a>
 <a href="https://instagram.com/fff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fff" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/backdoortech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="backdoortech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCZww32MBvawLVsVnKy8Gujw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="backdoortech" height="30" width="40" /></a>
 </p>
 
 
