@@ -1,4 +1,4 @@
-### Hi there 👋
+### I’m Peter, a computer technician, doing my first year of electronics and telecommunications college.
 
 <!--
 **BackdoorTech/BackdoorTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
