@@ -1,5 +1,7 @@
 ## I’m Peter, a technician, doing my first year of electronics and telecommunications college
 
+I like to code the hard stuff which demand design pattern.
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
