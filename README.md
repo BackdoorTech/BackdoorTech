@@ -1,6 +1,6 @@
 ## I’m Peter, a technician, doing my first year of electronics and telecommunications college
 
-I like to code the hard stuff which demand design pattern.
+I help you to build better and elegant software by using • design principles • development methodologies • agile practices • programming disciplines
 
 <br>
 
