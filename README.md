@@ -13,7 +13,7 @@ I help you to build better and elegant software by using • design pattern • 
 <a href="https://codesandbox.io/u/BackdoorTech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="backdoortech" height="30" width="40" /></a>
 <a href="https://www.instagram.com/backdoortech/channel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fff" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCZww32MBvawLVsVnKy8Gujw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="backdoortech" height="30" width="40" /></a>
- <a href="https://twitter.com/BackdoorrTech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="backdoorrtech" height="30" width="40" /></a>
+ <a href="https://twitter.com/BackdoorTech_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="backdoorrtech" height="30" width="40" /></a>
 </p>
 
 
