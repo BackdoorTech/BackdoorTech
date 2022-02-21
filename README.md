@@ -1,4 +1,4 @@
-## I’m Peter, a technician, doing my first year of electronics and telecommunications college
+## I’m Peter, a technician, doing my first year of electronics and telecommunications
 
 I help you to build better and elegant software by using • design pattern • development methodologies • agile practices • programming disciplines
 
