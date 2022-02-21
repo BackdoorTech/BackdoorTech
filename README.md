@@ -2,6 +2,12 @@
 
 I help you to build better and elegant software by using • design pattern • development methodologies • agile practices • programming disciplines
 
+
+### Tips
+
+A responsibility should be treated like a lego block,
+joining two or more responsibilities should turn into functionality in the codebase view.
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
